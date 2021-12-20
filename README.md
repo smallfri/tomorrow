@@ -8,3 +8,5 @@ Installation Instructions
 - php artisan db:seed
 - php artisan serve
 - follow the link :)
+
+To view tthe Shopify Exercise, visit url/shopify. I put everything in the same controller for simplicity. 
