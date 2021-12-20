@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [\App\Http\Controllers\TerminalController::class, 'show']);
+Route::get('/shopify', [\App\Http\Controllers\TerminalController::class, 'shopify']);
